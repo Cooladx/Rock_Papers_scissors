@@ -36,7 +36,7 @@ To run the program, ensure you have a C++ compiler installed on your system. The
 ## Coming Soon
 
 - **Adding a score system for the player and the computer**
-- **Statistics of results at the end W/L and amount of times computer chose rock/paper/scissors**
+- **Statistics of results at the end W/L. Also includes amount of times you and the computer chose rock/paper/scissors**
 
     
 
