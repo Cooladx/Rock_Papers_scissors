@@ -33,10 +33,11 @@ To run the program, ensure you have a C++ compiler installed on your system. The
     The winner of each round is determined based on the classic rules of Rock Paper Scissors.
     At the end of the specified number of rounds, the game will display the final results.
 
-## Coming soon
+## Coming Soon
 
-    - *** Adding a score system for the player and the computer *** 
-    - *** statistics of results at the end W/L and amount of times computer choose rock/paper/scissors ***
+- **Adding a score system for the player and the computer**
+- **Statistics of results at the end W/L and amount of times computer chose rock/paper/scissors**
+
     
 
 
