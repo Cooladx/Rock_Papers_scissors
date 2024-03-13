@@ -15,12 +15,18 @@ int main()
     char playerMove;
     char computerMove;
     int attempts;
+    
 
     cout << "\n\n\n\t Welcome to the Rock Paper Scissors Game\n";
     cout << "\n\n\n\tHow many times do you want to play?\n";
     cin >> attempts;
 
-    cin.ignore(numeric_limits<streamsize>::max(), '\n'); // Ignore remaining characters in input buffer
+    srand(time(NULL));
+    // Called once before the loop as the seed 
+    // is set only once when the program starts
+
+    cin.ignore(numeric_limits<streamsize>::max(), '\n'); 
+    // Ignore remaining characters in input buffer
 
     for (int i = 0; i < attempts; ++i)
     {
@@ -72,7 +78,6 @@ int getResults(char playerMove, char computerMove)
 
 char getComputerMove() 
 {
-    srand(time(NULL));
     int move = rand() % 3;
 
     if (move == 0) 
