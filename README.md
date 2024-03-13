@@ -31,4 +31,6 @@ To run the program, ensure you have a C++ compiler installed on your system. The
     Run the compiled executable file.
     Follow the on-screen instructions to play the game.
 
-> *follow.*
+> **Contributors**
+>
+> - mike
