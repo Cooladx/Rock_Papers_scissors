@@ -21,7 +21,7 @@ To run the program, ensure you have a C++ compiler installed on your system. The
     Run the compiled executable file.
     Follow the on-screen instructions to play the game.
 
-### How to Play
+## How to Play
     
     Run the program.
     Enter the number of rounds you want to play.
@@ -32,6 +32,13 @@ To run the program, ensure you have a C++ compiler installed on your system. The
     The computer will randomly select its move.
     The winner of each round is determined based on the classic rules of Rock Paper Scissors.
     At the end of the specified number of rounds, the game will display the final results.
+
+## Coming Soon
+
+- **Adding a score system for the player and the computer**
+- **Statistics of results at the end W/L. Also includes amount of times you and the computer chose rock/paper/scissors**
+
+    
 
 
 ## Enjoy! :)
