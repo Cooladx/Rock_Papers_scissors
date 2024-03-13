@@ -1,19 +1,18 @@
 # Rock_Papers_scissors
 
 
-Overview
+# Overview
 
 This is a simple console-based implementation of the classic Rock Paper Scissors game written in C++. The program allows the user to play against the computer for a specified number of rounds.
 
-Features
+## Features
 
     User-friendly console interface.
     Random computer moves for added unpredictability.
     Input validation to ensure the user enters a valid move.
 
 
-// mike
-Getting Started
+## Getting Started:
 
 To run the program, ensure you have a C++ compiler installed on your system. Then, follow these steps:
     
