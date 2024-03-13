@@ -13,7 +13,6 @@ Features
 
 
 
-- <sub> Mike </sub>
 Getting Started
 
 To run the program, ensure you have a C++ compiler installed on your system. Then, follow these steps:
