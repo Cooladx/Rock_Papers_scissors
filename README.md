@@ -4,7 +4,8 @@
 Overview
 
 This is a simple console-based implementation of the classic Rock Paper Scissors game written in C++. The program allows the user to play against the computer for a specified number of rounds.
-How to Play
+
+### How to Play
     
     Run the program.
     Enter the number of rounds you want to play.
